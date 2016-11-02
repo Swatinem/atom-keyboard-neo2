@@ -1,0 +1,15 @@
+{
+  "name": "keyboard-neo2",
+  "main": "./index.js",
+  "version": "1.0.0",
+  "description": "Make atom keybindings work with de-neo2 keyboards",
+  "keywords": [
+  ],
+  "repository": "https://github.com/Swatinem/atom-keyboard-neo2",
+  "license": "LGPL-3.0",
+  "engines": {
+    "atom": ">=1.12.0-beta6 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
